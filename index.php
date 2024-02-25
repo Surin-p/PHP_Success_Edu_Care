@@ -212,7 +212,9 @@
     Study aboard
     ################################################
 -->
+  <div class="image-wrapper">
 
+  </div>
 
   <!--     
 <div class="container">
